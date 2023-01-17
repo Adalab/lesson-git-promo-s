@@ -5,7 +5,7 @@ https://readme.so/
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- Adalabers de la Promo S 
 
 ## FAQ
 
